@@ -7,4 +7,3 @@ task2_pattern.py - узор g
 task3_animation.py - анимация из 4 кадров (запускать в терминале)
 task4_diagram.py - диаграмма по sequence.txt (числа больше -5 и меньше -5, положительные отброшены)
 
-Запуск: python task1_flag.py и т. д. из этой папки.

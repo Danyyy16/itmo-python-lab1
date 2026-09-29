@@ -4,7 +4,7 @@ WHITE = '\u001b[47m'
 END = '\u001b[0m'
 
 s = 4
-w = 4 * s + 1
+w = 4 * s*3 + 1
 h = 2 * s + 1
 
 for y in range(h):

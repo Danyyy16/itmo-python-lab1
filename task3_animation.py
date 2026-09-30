@@ -12,7 +12,7 @@ center = 3
 
 for repeat in range(3):
     for k in range(4):
-        os.system('cls' if os.name == 'nt' else 'clear')
+        os.system('cls')
         for y in range(7):
             print(GOTO.format(y + 3, 10), end='')
             for x in range(7):
